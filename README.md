@@ -131,7 +131,7 @@ git push origin feature/A
 ```
 
 ### 2.5. Pull Request (PR) 요청 및 병합 (Merge)
-
+## 병합요청은 일단 하지 마세요
 모든 작업이 `feature/A` 브랜치에 통합되고 완료된 후, `main` 브랜치로의 병합을 요청합니다.
 
 1. **PR 생성**: GitHub 웹사이트에서 `feature/A` 브랜치를 `main` 브랜치로 병합해 달라는 요청(Pull Request)을 생성합니다.
